@@ -1,0 +1,26 @@
+{
+  "name": "typescript-samples",
+  "version": "1.0.0",
+  "description": "TypeScript Samples",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmrushi/typescript-samples.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "pmrushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmrushi/typescript-samples/issues"
+  },
+  "homepage": "https://github.com/pmrushi/typescript-samples#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
